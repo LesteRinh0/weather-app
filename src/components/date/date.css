@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&display=swap");
+
+.date-today {
+  height: 93px;
+  width: 350px;
+  position: relative;
+  top: -1275px;
+  left: 630px;
+  font-family: "League Spartan", sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 30px;
+  line-height: 30px;
+
+  color: #000000;
+}
+p {
+  margin-top: 0.3em;
+  margin-bottom: 3em;
+}

@@ -1,0 +1,10 @@
+.blur-bg {
+  height: 450px;
+  width: 710px;
+  position: relative;
+  top: -700px;
+  left: 595px;
+
+  background: rgba(217, 217, 217, 0.2);
+  backdrop-filter: blur(7.5px);
+}

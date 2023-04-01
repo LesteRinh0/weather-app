@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&display=swap");
+
+.sign-in {
+  height: 35px;
+  width: 100px;
+  position: relative;
+  top: -1275px;
+  left: 630px;
+  font-size: 13pt;
+  font-family: "League Spartan", sans-serif;
+  font-style: normal;
+  background-color: black;
+  border-radius: 10px;
+
+  color: white;
+}
+.sign-up {
+  height: 35px;
+  width: 100px;
+  position: relative;
+  top: -1275px;
+  left: 660px;
+  font-size: 13pt;
+  font-family: "League Spartan", sans-serif;
+  font-style: normal;
+  background-color: black;
+  border-radius: 10px;
+
+  color: white;
+}
