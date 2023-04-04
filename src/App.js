@@ -5,6 +5,7 @@ import BlurBg from "./components/blur-bg/blur-bg.js";
 import Background from "./components/bg/bg.js";
 import "./App.css";
 import SecondBlurBg from "./components/second-blur-bg/second-blur-bg.js";
+import GetWeather from "./components/weather-api/weather-api.js";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <DateToday />
       <ButtonSignInUp />
       <SearchPanel />
+      <GetWeather />
     </div>
   );
 }

@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&display=swap");
+
+.daily {
+  height: 35px;
+  width: 100px;
+  position: relative;
+  top: -1220px;
+  left: 1050px;
+  font-size: 13pt;
+  font-family: "League Spartan", sans-serif;
+  font-style: normal;
+  background-color: black;
+  border-radius: 10px;
+
+  color: white;
+}
+.hourly {
+  height: 35px;
+  width: 100px;
+  position: relative;
+  top: -1220px;
+  left: 1070px;
+  font-size: 13pt;
+  font-family: "League Spartan", sans-serif;
+  font-style: normal;
+  background-color: black;
+  border-radius: 10px;
+
+  color: white;
+}
+
+.main-weather {
+  height: 150px;
+  width: 150px;
+  position: relative;
+  top: -1203px;
+  left: 595px;
+  text-align: center;
+}
+
+.today-weather {
+  text-align: center;
+  width: 150px;
+  height: 150px;
+}
+
+.today {
+  height: 150px;
+  width: 100px;
+  position: relative;
+  top: -1353px;
+  left: 745px;
+  text-align: center;
+  font-family: "League Spartan", sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 30px;
+  line-height: 30px;
+}
+
+.today-p {
+  margin-top: 1em;
+  margin-bottom: 0.4em;
+}
+
+.block-weather {
+  height: 150px;
+  width: 100px;
+  position: relative;
+  top: -1533px;
+  left: 845px;
+  text-align: center;
+  font-family: "League Spartan", sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 20px;
+  line-height: 20px;
+
+  margin: 0 9px;
+}
+
+.another-weather {
+  display: flex;
+  margin: 0 -5px;
+}
+
+.another-day {
+  margin-top: 0.3em;
+  margin-bottom: -0.5em;
+}
