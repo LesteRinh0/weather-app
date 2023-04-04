@@ -6,8 +6,6 @@ import Background from "./components/bg/bg.js";
 import "./App.css";
 import SecondBlurBg from "./components/second-blur-bg/second-blur-bg.js";
 
-const API_KEY = "ee030783f13a128def7893203d283bc6";
-
 function App() {
   return (
     <div className="App">

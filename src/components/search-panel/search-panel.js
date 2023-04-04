@@ -3,12 +3,7 @@ import "./search-panel.css";
 const SearchPanel = () => {
   return (
     <div>
-      <input
-        class="input"
-        name="text"
-        placeholder="Minsk"
-        type="search"
-      ></input>
+      <input class="input" name="text" placeholder="City" type="search"></input>
       <button className="search">Search</button>
     </div>
   );
